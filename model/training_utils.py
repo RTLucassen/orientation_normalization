@@ -1,3 +1,7 @@
+"""
+Contains model training utility functions.
+"""
+
 import math
 import random
 from pathlib import Path

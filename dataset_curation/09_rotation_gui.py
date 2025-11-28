@@ -1,3 +1,7 @@
+"""
+Perform the rotation annotation using a custom GUI.
+"""
+
 import math
 import json
 import os

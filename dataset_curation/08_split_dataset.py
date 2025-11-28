@@ -1,3 +1,7 @@
+"""
+Create dataset splits at the patient level.
+"""
+
 import json
 import random
 import shutil

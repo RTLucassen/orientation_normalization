@@ -1,3 +1,7 @@
+"""
+Extract images of the separate tissue cross-sections based on the segmentation.
+"""
+
 import io
 import zipfile
 from pathlib import Path

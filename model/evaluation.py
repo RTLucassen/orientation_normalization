@@ -1,3 +1,7 @@
+"""
+Evaluation of the model performance.
+"""
+
 import json
 import logging
 import os

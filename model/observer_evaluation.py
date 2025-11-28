@@ -1,3 +1,7 @@
+"""
+Evaluation of the observer/annotator performance.
+"""
+
 import json
 from pathlib import Path
 

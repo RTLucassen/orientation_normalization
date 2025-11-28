@@ -1,3 +1,7 @@
+"""
+Perform manual correction of the segmentations if necessary.
+"""
+
 from pathlib import Path
 
 from annotation_tool import AnnotationTool

@@ -1,3 +1,7 @@
+"""
+Contains model training loop.
+"""
+
 import json
 import logging
 import os

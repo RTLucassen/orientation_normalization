@@ -1,3 +1,7 @@
+"""
+Load and save the whole slide images at low resolution.
+"""
+
 from slideloader import SlideLoader
 import pandas as pd
 from pathlib import Path

@@ -1,3 +1,7 @@
+"""
+Analyze the requested data and attempt to create a dataset with balanced IHC stains.
+"""
+
 import pandas as pd
 import random
 
@@ -143,8 +147,8 @@ if __name__ == '__main__':
                             data['pa_number'].append(IHC_slide['pa_number'])
                             data['specimen'].append(conversion(IHC_slide['specimen_nr']))
                             data['IHC_stain'].append(stain)
-                            data['HE_path'].append([f"{HE_slide['scan'][-1]['base_dir']}/{name}".replace(r'/data/st1ap-picostr01/pacs',r'T:/dla_pacsarchief') for name in HE_slide['scan'][-1]['files']['SLIDE']])
-                            data['IHC_path'].append([f"{IHC_slide['scan'][-1]['base_dir']}/{name}".replace(r'/data/st1ap-picostr01/pacs',r'T:/dla_pacsarchief') for name in IHC_slide['scan'][-1]['files']['SLIDE']])
+                            data['HE_path'].append([f"{HE_slide['scan'][-1]['base_dir']}/{name}".replace(r'',r'') for name in HE_slide['scan'][-1]['files']['SLIDE']])
+                            data['IHC_path'].append([f"{IHC_slide['scan'][-1]['base_dir']}/{name}".replace(r'',r'') for name in IHC_slide['scan'][-1]['files']['SLIDE']])
     
     df = pd.DataFrame.from_dict(data)
     df.to_json('paths.json')

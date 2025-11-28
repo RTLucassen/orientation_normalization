@@ -1,3 +1,7 @@
+"""
+Create images of the cross-sections in their natural orientation.
+"""
+
 import json
 import math
 import os

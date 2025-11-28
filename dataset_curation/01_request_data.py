@@ -1,3 +1,7 @@
+"""
+Request data from pathology database.
+"""
+
 import json
 
 import requests

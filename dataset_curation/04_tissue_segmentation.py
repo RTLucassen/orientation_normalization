@@ -1,3 +1,7 @@
+"""
+Segment and separate the tissue sections in the whole slide images.
+"""
+
 import os
 import zipfile
 from pathlib import Path

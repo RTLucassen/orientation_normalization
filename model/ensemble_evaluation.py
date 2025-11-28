@@ -1,3 +1,7 @@
+"""
+Evaluate the performance of model ensembles.
+"""
+
 import os
 
 import pandas as pd

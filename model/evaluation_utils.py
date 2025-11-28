@@ -1,3 +1,7 @@
+"""
+Contains evaluation utility functions.
+"""
+
 import functools
 import math
 import random
