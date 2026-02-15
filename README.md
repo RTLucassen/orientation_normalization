@@ -3,7 +3,10 @@ This repository contains all code to support the paper:
 
 ***"Orientation Normalization of Multi-Stain Skin Tissue Cross-Sections"***  
 
-The paper is currently under review.
+Accepted at MIDL 2026.
+
+[[`OpenReview`](https://openreview.net/forum?id=SUgnMdiJ2q)]
+
 
 <div align="center">
   <img width="100%" alt="Method" src=".github\examples.gif">
