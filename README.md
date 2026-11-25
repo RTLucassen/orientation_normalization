@@ -1,14 +1,13 @@
+<div align="center">
+
 # Orientation Normalization of Multi-Stain Skin Tissue Cross-Sections
-This repository contains all code to support the paper:  
 
-***"Orientation Normalization of Multi-Stain Skin Tissue Cross-Sections"***  
+Ema Topolnjak, Evi Paulides, Willeke A. M. Blokx, Mitko Veta & Ruben T. Lucassen
 
-Accepted at MIDL 2026.
+Accepted at MIDL 2026
 
 [[`OpenReview`](https://openreview.net/forum?id=SUgnMdiJ2q)] [[`PLMR`](https://proceedings.mlr.press/v315/topolnjak26a.html)]
 
-
-<div align="center">
   <img width="100%" alt="Method" src=".github\examples.gif">
 </div>
 
