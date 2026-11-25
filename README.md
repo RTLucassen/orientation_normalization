@@ -6,7 +6,8 @@ Ema Topolnjak, Evi Paulides, Willeke A. M. Blokx, Mitko Veta & Ruben T. Lucassen
 
 *Accepted at MIDL 2026*
 
-[[`OpenReview`](https://openreview.net/forum?id=SUgnMdiJ2q)] [[`PLMR`](https://proceedings.mlr.press/v315/topolnjak26a.html)]
+[[`OpenReview`](https://openreview.net/forum?id=SUgnMdiJ2q)] [[`PLMR`](https://proceedings.mlr.press/v315/topolnjak26a.html)] [[`MIDL Poster`](https://github.com/RTLucassen/orientation_normalization/blob/main/.github/poster.pdf)]
+
 
   <img width="100%" alt="Method" src=".github\examples.gif">
 </div>
