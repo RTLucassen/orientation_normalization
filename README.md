@@ -4,7 +4,7 @@
 
 Ema Topolnjak, Evi Paulides, Willeke A. M. Blokx, Mitko Veta & Ruben T. Lucassen
 
-Accepted at MIDL 2026
+*Accepted at MIDL 2026*
 
 [[`OpenReview`](https://openreview.net/forum?id=SUgnMdiJ2q)] [[`PLMR`](https://proceedings.mlr.press/v315/topolnjak26a.html)]
 
